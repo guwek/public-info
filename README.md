@@ -57,12 +57,15 @@ Make sure to subscribe to the following mailing lists (see `lists.hhu.de` for de
 
 
 ## Room Booking
-For now, room booking is done via a shared calendar. To be added to the calendar send an email to zdm-info. Make sure to choose a meaningful title for your booking (e.g. your name) and to add the room to be booked. Bookable rooms:
+For now, room booking is done via a shared calendar. To be added to the calendar send an email to `zdm-info`.
+Make sure to choose a meaningful title for your booking (i.e. at least your name) and to add the room to be booked.
 
-- Ground floor, yellow meeting room
-- Ground floor, blue meeting room
-- Ground floor, seminar room
-- 1st floor, seminar room
+Bookable rooms:
+
+- Ground floor, meeting room 040 (smaller), "the **yellow** meeting room"
+- Ground floor, meeting room 033 (larger), "the **blue** meeting room"
+- Ground floor, seminar room 032
+- 1st floor, seminar room 011
 
 ## Desk Booking
 There are ~30 flexible desks that can be used any time. For now there is no booking systems and desks can be used on a first-come basis.
