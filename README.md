@@ -1,13 +1,41 @@
 # Center for Digital Medicine (ZDM) at Heinrich Heine University (HHU)
 
-## Contact address
-There is a central email address (zdm-info...) for all requests regarding the ZDM, including
+## Contact info
 
-- Reporting any issues with the building 97.45
+### In person
+
+Postal address:
+
+```
+Center for Digital Medicine
+Henkelstr. 230
+40599 Düsseldorf
+Germany
+```
+
+The HHU/UKD campus ID number of the ZDM building is **97.45**
+
+The nearest bus stop is `Paul-Thomas-Straße` (bus lines 724, 789, 835, M3).
+
+The nearest S-Bahn stop is `Reisholz` (S-Bahn S6).
+
+### As affiliation
+
+```
+Center for Digital Medicine,
+Heinrich Heine University Düsseldorf,
+Germany
+```
+
+### Via e-mail
+The main contact address `zdm-info [at] med.uni-duesseldorf.de` should be
+used for all requests concerning the ZDM, e.g.,
+
+- Reporting any issues with the building itself (maintenance, improvements etc.)
 
 - Requesting to be added to the calendar for room booking (see below)
   
-- Requesting membership
+- Requesting membership (see next section for details)
 
 ## ZDM Membership
 ZDM strives to foster academic exchange and is open to membership applications from all researchers at HHU or UKD working on aspects of digital medicine. While individual applications are possible, we encourage professors/group leaders to apply on behalf of their respective research group. In this case, every member of the research group becomes a member of ZDM, including new members that join a research group at a later time. Depending on the research focus, there are two kinds of memberships at ZDM:
@@ -21,11 +49,11 @@ All members are welcome to use the facilities of the ZDM through a system to boo
 To apply for membership, please send an email to zdm-info (see below) with a short description of your activities in the area of digital medicine and your motivation to join the ZDM (up to 300 words), accompanied by your CV (in any format) and a list of up to five most important publications in the area of digital medicine. Please indicate whether you apply as a methods-focused member or as an application-focused member. Membership needs to be renewed after three years.
 
 ## Mailing lists
-Make sure to be subscribed to the following mailing lists:
+Make sure to subscribe to the following mailing lists (see `lists.hhu.de` for details):
 
-- zdm-announce: Announcements of ZDM activities and events to members and friends of ZDM.
+- `zdm-announce [at] uni-duesseldorf.de`: Announcements of ZDM activities and events to members and friends of ZDM.
   
-- zdm-users: Important information for everybody using the ZDM building 97.45.
+- `zdm-users [at] uni-duesseldorf.de`: Important information for everybody using the ZDM building 97.45.
 
 
 ## Room Booking
